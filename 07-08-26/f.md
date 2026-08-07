@@ -54,3 +54,7 @@ add-services
             .ToListAsync(cancellationToken);
     }
   </pre>
+  <pre>
+.ng   6a760c28-301c-83ea-a6bb-bba82b97f6bb
+.net  6a760ccb-bb38-83ea-b1f3-1f33e7b62c87
+  </pre>
