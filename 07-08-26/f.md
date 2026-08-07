@@ -1,5 +1,4 @@
--
-
+<pre>
 using Microsoft.AspNetCore.Mvc;
 using TmsApi.Application.Interfaces;
 
@@ -54,3 +53,4 @@ add-services
                 e.Course.Code))
             .ToListAsync(cancellationToken);
     }
+  </pre>
